@@ -1,0 +1,12 @@
+{
+  "name": "spec-reporter-crash-when-timeout-created-in-required-hook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --require ./setup.js ./run-tests.js"
+  },
+  "keywords": [],
+  "author": "Raz Luvaton",
+  "license": "ISC"
+}
