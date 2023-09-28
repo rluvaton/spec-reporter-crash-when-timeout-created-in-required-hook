@@ -1,7 +1,7 @@
 Running:
 
 ```shell
-$ npm start
+$ npm test
 
 > spec-reporter-crash-when-timeout-created-in-required-hook@1.0.0 test
 > node --require ./setup.js ./run-tests.js
